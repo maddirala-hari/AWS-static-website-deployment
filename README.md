@@ -1,5 +1,5 @@
 
-# AWS Static Website Deployment
+# AWS Static Website Deployments
 
 ## Project Overview
 A static website deployment project designed to practice AWS cloud hosting and website delivery.
